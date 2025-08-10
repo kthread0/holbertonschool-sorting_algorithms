@@ -1,2 +1,1 @@
-# holbertonschool-binary_trees
-Binary trees
+# Holberton's sorting algorithms and big-O
