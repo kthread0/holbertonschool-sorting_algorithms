@@ -1,7 +1,9 @@
 #ifndef SORT_H
 #define SORT_H
 
-/*Let's use the following libraries because it allows use to use existing constants, it simplifies a ton of things like using NULL and whatnot, size_t is very useful too.*/
+/*Let's use the following libraries because it allows use to use existing*/
+/*constants, it simplifies a ton of things like using NULL and whatnot,size_t*/
+/*is very useful too.*/
 #include <stddef.h>
 
 /**
